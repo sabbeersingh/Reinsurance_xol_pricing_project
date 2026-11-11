@@ -40,6 +40,6 @@ fewer claims and is more volatile.
 - Burning cost is a historical average, not a final price
 
 ## Files
-- data/: raw claims CSV
+- Data/: raw claims CSV (danish_fire.csv)
 - SQL/: database (claims.db) and queries.sql
-- excel/: xol_pricing.xlsx with results, pricing table and charts
+- Excel/: layer_results.csv and xol_pricing.xlsx (results, pricing table and charts)
